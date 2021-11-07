@@ -1,3 +1,9 @@
+# Executable file / .cpp
 *.exe
-.vscode
 tempCodeRunnerFile.cpp
+
+# VScode settings
+.vscode
+
+# Makefile
+Makefile
